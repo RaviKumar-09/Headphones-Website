@@ -19,7 +19,7 @@ scripts.js: JavaScript file for handling interactive features and animations.
 
 assets/: Directory containing images and other assets used in the project.
 
-🛠️ Technologies Used:
+# 🛠️ Technologies Used:
 
 HTML5 for the structure
 
