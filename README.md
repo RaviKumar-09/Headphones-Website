@@ -20,12 +20,14 @@ scripts.js: JavaScript file for handling interactive features and animations.
 assets/: Directory containing images and other assets used in the project.
 
 🛠️ Technologies Used:
+
 HTML5 for the structure
+
 CSS3 for styling and layout
+
 JavaScript for interactivity
 
-# 📸 Image Credits:
-Images used in this project were sourced from Freepik and Unsplash.
+
 
 # 📸 Image Preview
 
