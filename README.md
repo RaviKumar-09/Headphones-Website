@@ -19,3 +19,6 @@ JavaScript for interactivity
 # 📸 Image Credits:
 Images used in this project were sourced from Freepik and Unsplash.
 
+![preview](https://github.com/user-attachments/assets/ca994a38-6864-4c04-84f6-cdfa8936355d)
+
+
