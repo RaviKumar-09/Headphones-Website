@@ -1,5 +1,5 @@
 
-#🎧 Responsive Website for Headphones
+# 🎧 Responsive Website for Headphones
 This project is a responsive landing page designed for a headphones website. The design and layout adapt seamlessly to various screen sizes, ensuring an optimal user experience on both desktop and mobile devices.
 
 # 📌 Features:
